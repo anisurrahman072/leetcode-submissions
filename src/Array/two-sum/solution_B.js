@@ -1,5 +1,4 @@
-// Input: nums -> [1,2,3,4,5]
-// Input: target -> 4
+// More Optimized
 
 export default function twoSum(nums, target) {
   for (let index = 0; index < nums.length; index++) {
