@@ -2,4 +2,4 @@
 
 ## Array
 
-### ✅ [26_remove-duplicates-from-sorted-array]()
+### ✅ [26 - Remove duplicates from sorted array]()
